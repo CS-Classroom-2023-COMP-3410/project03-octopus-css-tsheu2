@@ -1,0 +1,3 @@
+Timothy "TJ" Sheu Project 3 Reflection
+
+My process of modifying the page to match the screen shot was not as organized as I wouldv'e liked. It probably would've been best to move from the top of the site to the bottom instead of jumping around. I used both in-line and external css. The external css made it extremely easy to edit multiple pieces of content at a time. I mostly struggled with moving the Quiz form to the right of the image. However, after some trial and error, the solution was simple, I used float to move the form around. Another thing I struggled with was creating space to see the background behind the title and the main content. However, once I realized margins could help, the solution was simple. 
